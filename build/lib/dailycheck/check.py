@@ -5,6 +5,7 @@ from io import StringIO
 from cliff.show import ShowOne
 
 class Check(Command):
+    "Check a task"
     def get_parser(self, prog_name):
         parser = super(Check, self).get_parser(prog_name)
         parser.add_argument('task_name')

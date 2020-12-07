@@ -6,7 +6,12 @@ Home-page: https://github.com/chang4tech/dailycheck
 Author: Chang4Tech
 Author-email: chang4tech@gmail.com
 License: UNKNOWN
-Description: =================
+Description: DailyCheck  
+        =================
+        
+        This is a terminal tool for a daily checklist.
+        
+        =================
          Running demoapp
         =================
         
@@ -32,7 +37,6 @@ Description: =================
         
         ::
         
-          (.venv)$ cd demoapp
           (.venv)$ python setup.py install
         
         Usage
@@ -69,7 +73,8 @@ Description: =================
         Finally, when done, deactivate your virtual environment::
         
           (.venv)$ deactivate
-          $
+        
+        
         
 Platform: Any
 Classifier: Development Status :: 3 - Alpha

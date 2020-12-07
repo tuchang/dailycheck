@@ -6,6 +6,7 @@ from cliff.show import ShowOne
 import sqlite3
 
 class Add(Command):
+    "Add a task"
     def get_parser(self, prog_name):
         parser = super(Add, self).get_parser(prog_name)
         parser.add_argument('task_name')

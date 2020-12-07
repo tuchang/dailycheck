@@ -8,11 +8,9 @@ dailycheck/encoding.py
 dailycheck/greeting.py
 dailycheck/hook.py
 dailycheck/init.py
-dailycheck/list.py
 dailycheck/main.py
 dailycheck/remove.py
 dailycheck/show.py
-dailycheck/simple.py
 dailycheck.egg-info/PKG-INFO
 dailycheck.egg-info/SOURCES.txt
 dailycheck.egg-info/dependency_links.txt
