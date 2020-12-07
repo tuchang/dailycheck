@@ -1,0 +1,11 @@
+[console_scripts]
+dailycheck = dailycheck.main:main
+
+[dailycheck.demo]
+add = dailycheck.add:Add
+check = dailycheck.check:Check
+greeting = dailycheck.greeting:Greeting
+init = dailycheck.init:Init
+remove = dailycheck.remove:Remove
+show = dailycheck.show:Show
+
