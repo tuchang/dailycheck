@@ -1,7 +1,7 @@
 DailyCheck  
 =================
 
-This is a terminal tool for daily checklist.
+This is a terminal tool for a daily checklist.
 
 =================
  Running demoapp
