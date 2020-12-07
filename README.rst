@@ -1,5 +1,6 @@
-
+DailyCheck
 This is a terminal tool for daily checklist.
+
 =================
  Running demoapp
 =================
