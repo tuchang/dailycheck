@@ -2,6 +2,7 @@ import sqlite3
 from cliff.command import Command
 
 class Init(Command):
+    "Initialize the database"
     def take_action(self, parsed_args):
         conn = sqlite3.connect('data/daily.db')
 

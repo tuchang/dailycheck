@@ -7,7 +7,7 @@ from io import StringIO
 import sqlite3
 
 class Show(Lister):
-    "Show details about a task"
+    "Show details about tasks"
 
     log = logging.getLogger(__name__)
 
